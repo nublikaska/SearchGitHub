@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SearchGitHub</string>
+    <string name="registrationForVK">Войти через ВК</string>
+    <integer name="com_vk_sdk_AppId">6442786</integer>
+    <string name="errorOfAuth">Ошибка авторизации</string>
+    <string name="facebook_app_id">206982169892157</string>
+    <string name="fb_login_protocol_scheme">fb206982169892157</string>
+    <string name="exit">Выход</string>
+    <string name="hint_search">Введите для поиска</string>
+</resources>
