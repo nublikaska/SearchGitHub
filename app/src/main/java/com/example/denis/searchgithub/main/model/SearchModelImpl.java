@@ -16,7 +16,7 @@ import io.reactivex.schedulers.Schedulers;
 public class SearchModelImpl implements SearchModel {
 
     private GitHubApi gitHubApi;
-    private static final String token = "480939ccb7777170f2830fd98ac2d0fee37ea28e";
+    private static final String token = "1655f290443a9f52a3abd006651f79925d42b50c";
 
     public SearchModelImpl(GitHubApi gitHubApi) {
         this.gitHubApi = gitHubApi;
